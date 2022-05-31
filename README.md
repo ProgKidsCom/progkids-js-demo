@@ -1,5 +1,11 @@
 Для того, чтобы запустить проект нужна установленая NodeJS
-Инструкция: https://nodejs.org/ru/download/package-manager/
+Проверить наличие NodeJS можно с помощью команды в консоли:
+
+```
+node -v
+```
+
+Инструкция по установке NodeJS: https://nodejs.org/ru/download/package-manager/
 
 Далее переименовываем файл _.env.example_ в _.env_\
 И меняем в нем параметры на свои
