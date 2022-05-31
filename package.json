@@ -1,0 +1,15 @@
+{
+  "name": "progkids-js-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ProgKids Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "progkids": "^0.0.3"
+  }
+}
